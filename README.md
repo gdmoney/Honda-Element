@@ -1,19 +1,21 @@
-# 2003 Honda Element
+# 2003 Honda Element EX
 
 
 ### Maintenance log and parts/upgrades tracking for my car
+
 
 ![](/pic.jpg)
 
 
 ### Notes
-- VIN: `VBKV39400FM922697`
-- license plate #: `22U3301`
-- gas: `91+`
+- VIN: `5J6YH285X3L019952`
+- engine #: `TBD`
+- license plate #: `GD&TINA`
+- gas: `87`
 - engine oil:
-  - type: `10W-50` full synthetic
-  - capacity: `3.6 L (3.8 qt)`
+  - type: `5W-20`
+  - capacity: `4.2 L (4.4 qt)`
 - tires:
-  - model: `Dunlop Sportmax Sportsmart`
-  - front: `120/70-ZR17` - `36 psi`
-  - rear:  `190/55-ZR17` - `42 psi`
+  - front: `215/70-R16` - `32 psi`
+  - rear:  `215/70-R16` - `34 psi`
+  - spare: `60 psi`
