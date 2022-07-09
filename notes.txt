@@ -30,8 +30,6 @@ Belts / Hoses
 Electrical
 ----------
 + spark plugs					05.01.2016 (134k)
-- spark plug wires	(N/A)
-- ignition coil		(N/A)
 + starter					08.15.2017 (145k)	06.23.2017 (143k)
 + ignition starter switch			06.22.2017 (143k)
 + battery					10.05.2018 (147k)	02.11.2017 (141k)
