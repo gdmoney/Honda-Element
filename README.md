@@ -16,6 +16,6 @@
   - type: `5W-20`
   - capacity: `4.2 L (4.4 qt)`
 - tires:
-  - front: `215/70-R16` - `32 psi`
-  - rear:  `215/70-R16` - `34 psi`
+  - front: `215/70 R 16` - `32 psi`
+  - rear:  `215/70 R 16` - `34 psi`
   - spare: `60 psi`
