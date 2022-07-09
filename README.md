@@ -4,7 +4,7 @@
 ### Maintenance log and parts/upgrades tracking for my car
 
 
-![](/pic.jpg)
+![](/pic.jpeg)
 
 
 ### Notes
