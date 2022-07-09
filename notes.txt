@@ -1,12 +1,12 @@
-Service						Date & Mileage						Notes
-=======						==============						=====
+Service						Date & Mileage						               Notes
+=======						==============						               =====
 Fluids
 ------
 + engine oil					12.12.2021 (178k)	04.11.2021 (171k)	08.02.2020 (166k)
 + coolant					03.20.2022 (180k)	04.04.2021 (171k)	10.29.2016 (137k)
 + brake						10.29.2016 (137k)
 - ac
-+ transmission					12.27.2016 (138k)	11.6.2016 (137k)	10.23.2016 (137k) 3 quarts at a time
++ transmission					12.27.2016 (138k)	11.6.2016 (137k)	10.23.2016 (137k)      3 quarts at a time
 + rear differential				10.23.2016 (137k)
 - power steering
 
