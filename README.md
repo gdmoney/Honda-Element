@@ -11,7 +11,7 @@
 - VIN: `5J6YH285X3L019952`
 - engine #: `TBD`
 - license plate #: `GD&TINA`
-- gas: `87`
+- gas: `87+`
 - engine oil:
   - type: `5W-20`
   - capacity: `4.2 L (4.4 qt)`
