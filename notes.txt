@@ -75,11 +75,6 @@ Sensors
 - oxygen - up					11.20.2021 (178k)
 - oxygen - down					11.20.2021 (178k)	03.06.2020 (162k)
 - thermostat
-- throttle position
-- crankshaft position
-- camshaft position
-- knock
-- PCV valve
 
 
 Misc
