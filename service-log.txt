@@ -51,29 +51,29 @@ Brakes
 
 Tires
 -----
-+ front           07.15.2019 (157k)
-+ rear            07.15.2019 (157k)
-- alignment       11.23.2011 (110k)
-+ rotation        07.09.2022 (183k)
++ front                             07.15.2019 (157k)
++ rear                              07.15.2019 (157k)
+- alignment                         11.23.2011 (110k)
++ rotation                          07.09.2022 (183k)
 
 
 Suspension
 ----------
-+ lower control arms				11.23.2011 (110k)
++ lower control arms                11.23.2011 (110k)
 - struts
 - tie rods - outer
 - ball joints
 - control arms - front (check bushings)
 - sway bar bushings
 - sway bar links
-- wheel bearing (front driver)			06.29.2021 (173k)
+- wheel bearing (front driver)      06.29.2021 (173k)
 
 
 Sensors
 -------
-- catalytic converter				11.20.2021 (178k)
-- oxygen - up					11.20.2021 (178k)
-- oxygen - down					11.20.2021 (178k)	03.06.2020 (162k)
+- catalytic converter               11.20.2021 (178k)
+- oxygen - up                       11.20.2021 (178k)
+- oxygen - down                     11.20.2021 (178k)           03.06.2020 (162k)
 - thermostat
 
 
@@ -81,6 +81,6 @@ Misc
 ----
 - valve adjustment
 - radiator cap
-+ windshield wipers				05.31.2020
-+ motor mounts (R,L,F)				07.01.2020 (165k)
-+ speakers (4)					08.29.2020 (166k)
++ windshield wipers                 05.31.2020
++ motor mounts (R,L,F)              07.01.2020 (165k)
++ speakers (4)                      08.29.2020 (166k)
