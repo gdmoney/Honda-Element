@@ -51,10 +51,10 @@ Brakes
 
 Tires
 -----
-+ front						07.15.2019 (157k)
-+ rear						07.15.2019 (157k)
-- alignment					11.23.2011 (110k)
-- rotation
++ front           07.15.2019 (157k)
++ rear            07.15.2019 (157k)
+- alignment       11.23.2011 (110k)
++ rotation        07.09.2022 (183k)
 
 
 Suspension
