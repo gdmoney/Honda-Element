@@ -81,6 +81,6 @@ Misc
 ----
 - valve adjustment
 - radiator cap
-+ windshield wipers                           05.31.2020
++ windshield wipers                           05.31.2020 (164k)
 + motor mounts (R,L,F)                        07.01.2020 (165k)
 + speakers (4)                                08.29.2020 (166k)
