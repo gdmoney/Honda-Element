@@ -1,38 +1,38 @@
-Service                                       Date & Mileage                                                                Notes
-=======                                       ==============                                                                =====
+Service						Date & Mileage											Notes
+=======						==============											=====
 Fluids
 ------
-+ engine oil                                  07.09.2022 (183k)         12.12.2021 (178k)         04.11.2021 (171k)
-+ coolant                                     03.20.2022 (180k)         04.04.2021 (171k)         10.29.2016 (137k)
-+ brake                                       07.16.2022 (183k)         10.29.2016 (137k)
++ engine oil					11.19.2022 (187k)	12.12.2021 (178k)	04.11.2021 (171k)	08.02.2020 (166k)
++ coolant					03.20.2022 (180k)	04.04.2021 (171k)	10.29.2016 (137k)
++ brake						10.29.2016 (137k)
 - ac
-+ transmission                                12.27.2016 (138k)         11.06.2016 (137k)         10.23.2016 (137k)         3 quarts at a time
-+ rear differential                           07.23.2022 (183k)         10.23.2016 (137k)
++ transmission					12.27.2016 (138k)	11.6.2016 (137k)	10.23.2016 (137k)				3 quarts at a time
++ rear differential				10.23.2016 (137k)
 - power steering
 
 
 Filters
 -------
-+ oil                                         07.09.2022 (183k)         12.12.2021 (178k)         04.11.2021 (171k)
-+ engine air                                  05.01.2016 (134k)
-+ cabin air                                   05.01.2016 (134k)
-- fuel
-- transmission
++ oil						11.19.2022 (187k)	12.12.2021 (178k)	04.11.2021 (171k)	08.02.2020 (166k)
++ engine air					05.01.2016 (134k)
++ cabin air					05.01.2016 (134k)
+- fuel			(N/A)
+- transmission		(N/A)
 
 
 Belts / Hoses
 -------------
-+ serpentine                                  12.31.2016 (138k)
++ serpentine					12.31.2016 (138k)
 - radiator hoses (upper,lower,bypass)
 - tensioner pulley
 
 
 Electrical
 ----------
-+ spark plugs                                 05.01.2016 (134k)
-+ starter                                     08.15.2017 (145k)         06.23.2017 (143k)
-+ ignition starter switch                     06.22.2017 (143k)
-+ battery                                     10.05.2018 (147k)         02.11.2017 (141k)
++ spark plugs					05.01.2016 (134k)
++ starter					08.15.2017 (145k)	06.23.2017 (143k)
++ ignition starter switch			06.22.2017 (143k)
++ battery					10.09.2022 (186k)	10.05.2018 (147k)	02.11.2017 (141k)
 
 
 Pumps
@@ -43,44 +43,51 @@ Pumps
 
 Brakes
 ------
-+ front pads                                  10.08.2016 (137k)         11.23.2011 (110k)
-+ front rotors                                10.08.2016 (137k)
-+ rear pads                                   07.16.2022 (183k)         10.16.2016 (137k)         11.23.2011 (110k)
-+ rear rotors                                 10.16.2016 (137k)
++ front pads					10.08.2016 (137k)	11.23.2011 (110k)
++ front rotors					10.08.2016 (137k)		
++ rear pads					10.16.2016 (137k)	11.23.2011 (110k)
++ rear rotors					10.16.2016 (137k)
 
 
 Tires
 -----
-+ front                                       07.15.2019 (157k)
-+ rear                                        07.15.2019 (157k)
-+ alignment                                   11.23.2011 (110k)
-+ rotation                                    07.09.2022 (183k)
++ front						11.19.2022 (184k)	07.15.2019 (157k)
++ rear						11.19.2022 (184k)	07.15.2019 (157k)
+- alignment					11.23.2011 (110k)
+- rotation
 
 
 Suspension
 ----------
-+ lower control arms                          11.23.2011 (110k)
++ lower control arms				11.23.2011 (110k)
 - struts
 - tie rods - outer
 - ball joints
 - control arms - front (check bushings)
 - sway bar bushings
 - sway bar links
-+ wheel bearing (front driver)                06.29.2021 (173k)
++ wheel bearing (front driver)			06.29.2021 (173k)
 
 
 Sensors
 -------
-+ catalytic converter                         11.20.2021 (178k)
-+ oxygen - up                                 11.20.2021 (178k)
-+ oxygen - down                               11.20.2021 (178k)           03.06.2020 (162k)
++ catalytic converter				11.20.2021 (178k)
++ oxygen - up					11.20.2021 (178k)
++ oxygen - down					11.20.2021 (178k)	03.06.2020 (162k)
 - thermostat
+- throttle position
+- crankshaft position
+- camshaft position
+- knock
+- PCV valve
 
 
 Misc
 ----
 - valve adjustment
 - radiator cap
-+ windshield wipers                           05.31.2020 (164k)
-+ motor mounts (R,L,F)                        07.01.2020 (165k)
-+ speakers (4)                                08.29.2020 (166k)
++ windshield wipers				05.31.2020
++ motor mounts (R,L,F)				07.01.2020 (165k)
++ speakers (4)					08.29.2020 (166k)
++ variable valve timing solenoid		12.13.2022 (188k)										Dorman 917-224
+
