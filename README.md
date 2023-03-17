@@ -9,7 +9,6 @@
 
 ### Notes
 - VIN: `5J6YH285X3L019952`
-- engine #: `TBD`
 - license plate #: `GD`&#9829;`TINA`
 - gas: `87+`
 - engine oil:
