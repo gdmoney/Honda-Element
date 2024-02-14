@@ -1,19 +1,19 @@
-Service                     Date & Mileage                                                                              Notes
-=======                     ==============                                                                              =====
+Service                     Date & Mileage                                                    Notes
+=======                     ==============                                                    =====
 Fluids
 ------
-+ engine oil                09.23.2023 (196k)     04.23.2023 (192k)     11.19.2022 (187k)     12.12.2021 (178k)
-+ coolant                   03.17.2023 (191k)     03.20.2022 (180k)     04.04.2021 (171k)     10.29.2016 (137k)
++ engine oil                09.23.2023 (196k)     04.23.2023 (192k)     11.19.2022 (187k)
++ coolant                   03.17.2023 (191k)     03.20.2022 (180k)     04.04.2021 (171k)
 + brake                     10.29.2016 (137k)
 + freon                     03.17.2023 (191k)
-+ transmission              12.27.2016 (138k)     11.06.2016 (137k)     10.23.2016 (137k)                               3 quarts at a time
++ transmission              12.27.2016 (138k)     11.06.2016 (137k)     10.23.2016 (137k)     3 quarts at a time
 + rear differential         10.23.2016 (137k)
 - power steering
 
 
 Filters
 -------
-+ oil                       09.23.2023 (196k)     04.23.2023 (192k)     11.19.2022 (187k)     12.12.2021 (178k)
++ oil                       09.23.2023 (196k)     04.23.2023 (192k)     11.19.2022 (187k)
 + engine air                05.01.2016 (134k)
 + cabin air                 05.01.2016 (134k)
 - fuel          (N/A)
@@ -36,6 +36,7 @@ Electrical
 + starter                   08.15.2017 (145k)     06.23.2017 (143k)
 + ignition starter switch   06.22.2017 (143k)
 + battery                   10.09.2022 (186k)     10.05.2018 (147k)     02.11.2017 (141k)
+- alternator
 
 
 Brakes
@@ -90,6 +91,6 @@ Misc
 + windshield wipers         05.31.2020 (164k)
 + motor mounts (R,L,F)      07.01.2020 (165k)
 + speakers (4)              08.29.2020 (166k)
-+ VVT solenoid              03.22.2023 (191k)     12.13.2022 (188k)                                                       Code: P2646; Part: Dorman 917-224
++ VVT solenoid              03.22.2023 (191k)     12.13.2022 (188k)                           Code: P2646; Part: Dorman 917-224
 + radiator                  03.17.2023 (191k)
 + AC compressor relay       03.17.2023 (191k)
