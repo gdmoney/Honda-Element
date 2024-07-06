@@ -8,9 +8,11 @@
 
 
 ### Notes
+- bought brand new
 - VIN: `5J6YH285X3L019952`
 - license plate #: `GD`&#9829;`TINA`
 - gas: `87+`
+- engine type: `2.4 L I4`
 - engine oil:
   - type: `5W-20`
   - capacity: `4.2 L (4.4 qt)`
