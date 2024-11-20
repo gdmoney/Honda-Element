@@ -34,7 +34,7 @@ Electrical
 ----------
 + spark plugs               09.28.2024 (207k)     05.05.2023 (192k)     05.01.2016 (134k)
 + ignition coils            09.28.2024 (207k)
-+ starter                   08.15.2017 (145k)     06.23.2017 (143k)
++ starter                   11.17.2024 (207k)     08.15.2017 (145k)     06.23.2017 (143k)
 + ignition starter switch   06.22.2017 (143k)
 + battery                   10.09.2022 (186k)     10.05.2018 (147k)     02.11.2017 (141k)
 - alternator
@@ -43,9 +43,9 @@ Electrical
 Brakes
 ------
 + front pads                10.14.2024 (207k)     10.08.2016 (137k)     11.23.2011 (110k)
-+ front rotors              10.08.2016 (137k)
++ front rotors                                    10.08.2016 (137k)
 + rear pads                 10.19.2024 (207k)     10.16.2016 (137k)     11.23.2011 (110k)
-+ rear rotors               10.16.2016 (137k)
++ rear rotors                                     10.16.2016 (137k)
 
 
 Tires
@@ -79,7 +79,7 @@ Exhaust / Sensors
 - camshaft position
 - MAP
 - IAT
-- knock
++ knock                     11.17.2024 (207k)
 - PCV valve
 
 
