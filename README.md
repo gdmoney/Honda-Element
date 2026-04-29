@@ -8,7 +8,7 @@
 
 
 ### Notes
-- bought brand new
+- bought brand new in 2003
 - VIN: `5J6YH285X3L019952`
 - license plate #: `GD`&#9829;`TINA`
 - gas: `87+`
