@@ -2,7 +2,7 @@ Service                     Date & Mileage                                      
 =======                     ==============                                                    =====
 Fluids
 ------
-+ engine oil                01.05.2026 (217k)     11.01.2025 (215k)     03.09.2025 (210k)
++ engine oil                04.25.2026 (220k)     01.05.2026 (217k)     11.01.2025 (215k)     
 + coolant                   03.17.2023 (191k)     03.20.2022 (180k)     04.04.2021 (171k)
 + brake                     10.29.2016 (137k)
 + freon                     03.17.2023 (191k)
@@ -13,7 +13,7 @@ Fluids
 
 Filters
 -------
-+ oil                       01.05.2026 (217k)     11.01.2025 (215k)     03.09.2025 (210k)
++ oil                       04.25.2026 (220k)     01.05.2026 (217k)     11.01.2025 (215k)     
 + engine air                04.19.2025 (211k)     05.01.2016 (134k)
 + cabin air                 04.19.2025 (211k)     05.01.2016 (134k)
 - fuel          (N/A)
@@ -32,7 +32,7 @@ Belts / Hoses
 
 Electrical
 ----------
-+ spark plugs               04.19.2025 (211k)     09.28.2024 (207k)     05.05.2023 (192k)
++ spark plugs               04.25.2026 (220k)     04.19.2025 (211k)     09.28.2024 (207k)     
 + ignition coils                                  09.28.2024 (207k)
 + starter                   11.17.2024 (207k)     08.15.2017 (145k)     06.23.2017 (143k)
 + ignition starter switch   06.22.2017 (143k)
@@ -95,6 +95,6 @@ Misc
 + windshield wipers         05.31.2020 (164k)
 + motor mounts (R,L,F)      07.01.2020 (165k)
 + speakers (4)              08.29.2020 (166k)
-+ VVT solenoid              03.22.2023 (191k)     12.13.2022 (188k)                           Cleaned at (217k); Code: P2646; Part: Dorman 917-224
++ VVT solenoid              03.22.2023 (191k)     12.13.2022 (188k)                           Cleaned at: 220k, 217k; Code: P2646; Part: Dorman 917-224
 + radiator                  03.17.2023 (191k)
 + AC compressor relay       03.17.2023 (191k)
