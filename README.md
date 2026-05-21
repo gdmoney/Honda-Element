@@ -9,6 +9,7 @@
 
 ### Notes
 - bought brand new in 2003
+- traded in for a Tesla Model 3 on `05.20.2026` for `$1,300` with `220k` miles
 - VIN: `5J6YH285X3L019952`
 - license plate #: `GD`&#9829;`TINA`
 - gas: `87+`
